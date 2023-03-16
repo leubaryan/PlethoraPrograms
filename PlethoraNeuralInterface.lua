@@ -17,7 +17,7 @@ local notificationPosStyle = "relativeDirection"
 --KEYS:
 local launchUpKey = {}
 launchUpKey.key = keys.e
-launchUpKey.keyname = "E"
+launchUpKey.keyname = "R"
 local launchDirectionKey = {}
 launchDirectionKey.key = keys.f
 launchDirectionKey.keyname = "F"
